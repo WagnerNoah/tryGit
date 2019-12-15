@@ -1,0 +1,7 @@
+admin = Jeremy Korb <jkorb@jeremykorb.com>
+wagnerpaul = Paul Wagner <paulw@foodchain.com>
+koonuy = Koon Nguy <koonuy@gmail.com>
+tvanderzanden = Tony Vanderzanden <tvanderzanden@gmail.com>
+jeremykorb = Jeremy Korb <jkorb@jeremykorb.com>
+dan = Dan Stadler <danstadler@gmail.com>
+paul = Paul Wagner <paulw@foodchain.com>
