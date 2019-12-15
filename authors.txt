@@ -6,5 +6,3 @@ jeremykorb = Jeremy Korb <jkorb@jeremykorb.com>
 dan = Dan Stadler <danstadler@gmail.com>
 paul = Paul Wagner <paulw@foodchain.com>
 Another
-Few lines
-Of text
